@@ -4,6 +4,5 @@ enforce_https: transitional
 php_version: 7.4
 drush_version: 10
 build_step: true
-modern_db: true
 protected_web_paths:
   - /private
